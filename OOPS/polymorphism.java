@@ -1,9 +1,9 @@
 package OOPS;
 
-class Student {
+class Employee {
     String name;
-    int age;
-    
+    String age;
+
     public void printInfo(String name) {
         System.out.println(name);
     }
@@ -17,9 +17,10 @@ class Student {
 
 public class polymorphism {
     public static void main(String[] args) {
-        Student s1 = new Student();
-        s1.printInfo("Suresh");
-        s1.printInfo(19);
-        s1.printInfo("Suresh", 19);
+        Employee e1 = new Employee();
+        e1.printInfo("Suresh");
+        e1.printInfo(19);
+        e1.printInfo("Suresh", 19);
     }
+    
 }
