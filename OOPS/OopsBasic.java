@@ -2,7 +2,7 @@ package OOPS;
 
 class Student {
     Student() {
-        System.out.println("This is a constructer");
+        System.out.println("I am a constructer");
     }
     String name;
     int age;
