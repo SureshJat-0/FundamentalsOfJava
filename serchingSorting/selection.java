@@ -1,3 +1,5 @@
+package serchingSorting;
+
 public class selection {
 
     public static void printArr(int arr[]) {

@@ -1,3 +1,5 @@
+package serchingSorting;
+
 public class Bubble {
 
     public static void printArr(int arr[]) {

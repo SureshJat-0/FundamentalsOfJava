@@ -1,3 +1,5 @@
+package serchingSorting;
+
 public class Insertion {
 
     public static void printArr(int arr[]) {

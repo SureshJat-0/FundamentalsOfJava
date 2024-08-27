@@ -1,3 +1,5 @@
+package serchingSorting;
+
 public class binarySearch {
     public static int binarySearchArr(int[] arr, int target) {
         
